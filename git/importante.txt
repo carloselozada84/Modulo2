@@ -1,0 +1,13 @@
+pwd es para ver en q directorio o ruta estoy
+mkdir crear una carpeta
+ls listar la carpeta o archivo q tenga
+cd entro en la carpeta
+clear limpio todo
+cd .. vuelvo un lugar hacia atras
+touch: para crear un archivo (x ej; touch index.html)
+rmdir borrar carpeta
+code . abre el visual code
+touch: para crear un archivo (x ej; touch index.html)
+history historial de comandos q escribi
+ls - a archivos ocultos
+ls -al permisos
